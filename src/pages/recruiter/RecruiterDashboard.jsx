@@ -1,25 +1,28 @@
-// src/pages/admin/AdminDashboard.jsx
-import AdminGlowMenu from "../../components/ui/AdminGlowMenu";
-import AdminSidebar from "../../components/ui/AdminSidebar";
+// src/pages/recruiter/RecruiterDashboard.jsx
+import RecruiterGlowMenu from "../../components/ui/RecruiterGlowMenu";
+import RecruiterSidebar from "../../components/ui/RecruiterSidebar";
 import { Outlet } from "react-router-dom";
 
-export default function AdminDashboard() {
+const RecruiterDashboard = () => {
   return (
     <div className="min-h-screen flex text-white">
-      {/* Sidebar (left) */}
-      <AdminSidebar />
+      {/* Sidebar */}
+      <RecruiterSidebar />
 
-      {/* Main content area */}
-      <div className="pl-[80px] flex-1 flex flex-col bg-gradient-to-br from-[#1E3A8A] to-[#60A5FA] relative">
-        {/* Ensure navbar stays above */}
+      {/* Main Area */}
+      <div className="pl-[80px] flex flex-col min-h-screen flex-1 bg-gradient-to-br from-[#1E40AF] to-[#60A5FA]">
+        {/* Navbar */}
         <div className="z-50 relative">
-          <AdminGlowMenu />
+          <RecruiterGlowMenu />
         </div>
 
+        {/* Page Content */}
         <main className="flex-1 p-6 mt-[64px] backdrop-blur-md">
           <Outlet />
         </main>
       </div>
     </div>
   );
-}
+};
+
+export default RecruiterDashboard;
