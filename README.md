@@ -25,6 +25,7 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 /backend
 └── Spring Boot + MySQL
 └── Controllers, DTOs, JWT Auth, Role-based APIs
+(Currently working on it)
 
 
 ## 🔧 Setup Instructions
