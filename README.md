@@ -51,7 +51,7 @@ This is a personal internship/portfolio project, but feel free to fork and explo
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 👤 Developer
-Aman Krishna Chandra
+Aman Kumar Chandra
 LinkedIn • GitHub • X/Twitter
 
 =======
