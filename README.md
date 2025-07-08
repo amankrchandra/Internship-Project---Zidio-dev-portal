@@ -39,7 +39,7 @@ npm run dev
 ``
 
 Backend (Spring Boot)
-Open in your Java IDE (e.g., IntelliJ or Eclipse), configure MySQL DB, and run the application.
+Open in your Java IDE (e.g., IntelliJ ), configure MySQL DB, and run the application.
 
 🚀 Live Demo
 (Coming soon — add link here when deployed)
