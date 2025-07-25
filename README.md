@@ -16,7 +16,7 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 |--------------|----------------|----------|--------------------------|
 | React + Vite | Spring Boot    | MySQL    | Tailwind CSS, Framer Motion, @react-three/fiber |
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 /frontend
 └── React + Tailwind
@@ -27,9 +27,9 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 (Currently working on it)
 
 
-## 🔧 Setup Instructions
+# 🔧 Setup Instructions
 
-### Frontend (React + Vite)
+# Frontend (React + Vite)
 
 `bash
 cd frontend
@@ -66,4 +66,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> e2bf3fd (� Complete Zidio Job Portal Frontend)
+>>>>>>> e2bf3fd ( Complete Zidio Job Portal Frontend)
