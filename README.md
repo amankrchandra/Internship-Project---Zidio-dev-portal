@@ -52,7 +52,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 Aman Kumar Chandra
 LinkedIn : http://linkedin.com/in/amankrchandra
 • GitHub : https://github.com/amankrchandra
-• X/Twitter : 
+• X/Twitter : https://x.com/amankrchandra
 
 =======
 # React + Vite
