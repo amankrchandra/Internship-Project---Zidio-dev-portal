@@ -50,7 +50,9 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 👤 Developer
 Aman Kumar Chandra
-LinkedIn • GitHub • X/Twitter
+LinkedIn : http://linkedin.com/in/amankrchandra
+• GitHub 
+• X/Twitter : 
 
 =======
 # React + Vite
