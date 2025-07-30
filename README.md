@@ -51,7 +51,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 👤 Developer
 Aman Kumar Chandra
 LinkedIn : http://linkedin.com/in/amankrchandra
-• GitHub 
+• GitHub : https://github.com/amankrchandra
 • X/Twitter : 
 
 =======
