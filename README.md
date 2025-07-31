@@ -5,7 +5,7 @@ A full-featured Job portal platform for job seekers and recruiters — built as 
 # ✨ Features
 
 - 👨‍💻 Separate Signup/Login for Job Seekers and Recruiters
-- 🔐 JWT-based authentication with role-based access
+- 🔐 JWT-Based authentication with role-based access
 - 💼 Job Listings with glassmorphism-style UI
 - 🌟 Modern Dashboard with ANIMATED GLOWING navigation bar
 - 📧 Contact form, Resume view, and more...
