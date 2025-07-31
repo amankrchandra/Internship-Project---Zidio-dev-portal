@@ -10,9 +10,9 @@ A full-featured Job portal platform for job seekers and recruiters — built as 
 - 🌟 Modern Dashboard with ANIMATED GLOWING navigation bar
 - 📧 Contact form, Resume view, and more...
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
-| Frontend     | Backend        | Database | Animation/Styling       |
+| Frontend     |Backend        | Database | Animation/Styling       |
 |--------------|----------------|----------|--------------------------|
 | React + Vite | Spring Boot    | MySQL    | Tailwind CSS, Framer Motion, @react-three/fiber |
 
