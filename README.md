@@ -12,7 +12,7 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 
 ## 🛠️ Tech Stack
 
-| Frontend     | Backend        | Database | Animation/Styling        |
+| Frontend     | Backend        |Database | Animation/Styling        |
 |--------------|----------------|----------|--------------------------|
 | React + Vite | Spring Boot    | MySQL    | Tailwind CSS, Framer Motion, @react-three/fiber |
 
