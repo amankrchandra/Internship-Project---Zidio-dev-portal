@@ -16,7 +16,7 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 |--------------|----------------|----------|--------------------------|
 | React + Vite | Spring Boot    | MySQL    | Tailwind CSS, Framer Motion, @react-three/fiber |
 
-# 📂 Project Structure
+# 📂 Project Structur
 
 /frontend
 └── React + Tailwind
