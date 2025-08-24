@@ -10,7 +10,7 @@ A full-featured job portal platform for job seekers and recruiters — built as 
 - 🌟 Modern Dashboard with ANIMATED GLOWING navigation bar
 - 📧 Contact form, Resume view, and more...
 
-## 🛠️ Tech St
+## 🛠️ Tech S
 
 | Frontend     | Backend        | Database | Animation/Styling        |
 |--------------|----------------|----------|--------------------------|
