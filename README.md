@@ -1,5 +1,5 @@
 # Zidio Job Portal🚀
- Frontend Part
+Mainly Frontend Part
 A full-featured job portal platform for job seekers and recruiters — built as an internship/full-stack portfolio project.
 
 # Features ✨  
