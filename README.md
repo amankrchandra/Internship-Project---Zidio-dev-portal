@@ -1,4 +1,4 @@
-# Zidio Job Porta🚀
+# Zidio Job Portal🚀
 
 Mainly Frontend Part - 
 
